@@ -3,7 +3,7 @@
 ## Tables Explanation
 
 ### students
-Stores student information.
+Stores student information. 
 - id: Primary Key, unique identifier for each student
 - name: Student full name, NOT NULL because every student must have a name
 - email: UNIQUE and NOT NULL, used to prevent duplicate accounts and to contact students
